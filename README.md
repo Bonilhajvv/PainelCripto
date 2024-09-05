@@ -1,13 +1,10 @@
 # InfoCripto
 
 ## Sobre o Projeto
-https://dasilvabonfim.github.io/Criptomoeda/
+
 
 InfoCripto é uma aplicação web desenvolvida com React que oferece informações atualizadas sobre preços e outras estatísticas de criptomoedas. Utilizando bibliotecas como `react-google-charts` para visualização de dados e `react-router-dom` para roteamento, o projeto proporciona uma experiência de usuário rica e interativa.
 
-![image](https://github.com/dasilvabonfim/Criptomoeda/assets/112987011/610fd276-c706-4304-9fa7-1976f6cb8e42)
-
-![image](https://github.com/dasilvabonfim/Criptomoeda/assets/112987011/15da2b9d-6215-4849-968f-0137d5cc2bc3)
 
 
 
